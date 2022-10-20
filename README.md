@@ -7,6 +7,7 @@
 - CRUD logins (name, link, username/mail and password).
 - Have all your credentials with you anytime.
 - Create different users to manage a lot of logins with safety for every single user.
+- All data is secured locally.
 
 ### Como usar | How to use:
 
